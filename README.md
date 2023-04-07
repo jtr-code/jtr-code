@@ -1,6 +1,8 @@
+# Hi there, I'm Jishnu t raj👋
+
 # 💫 About Me:
 
-Hi there! I'm a self-taught MERN (MongoDB, Express, React, Node.js) developer who is passionate about building robust and scalable web applications.
+I'm a self-taught MERNdeveloper who is passionate about building robust and scalable web applications.
 
 My journey into software development started as a hobby, but soon became a full-time pursuit as I fell in love with the process of building and refining complex systems. I'm constantly learning and experimenting with new technologies and frameworks, and am particularly interested in how modern JavaScript can be leveraged to create beautiful and intuitive user interfaces.<br>
 
@@ -19,7 +21,7 @@ My journey into software development started as a hobby, but soon became a full-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="300px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jtr-code&icon=7&color=4)](https://visitcount.itsvg.in)

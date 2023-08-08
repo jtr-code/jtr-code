@@ -17,12 +17,5 @@ My journey into software development started as a hobby, but soon became a full-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jtr-code&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jtr-code&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="300px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=jtr-code&icon=7&color=4)](https://visitcount.itsvg.in)
 
